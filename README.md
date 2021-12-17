@@ -1,2 +1,3 @@
 # Coursera-Github
-Repo for github coursera
+Repo for github course
+I am editing the README file. Adding some more details about the project description.
